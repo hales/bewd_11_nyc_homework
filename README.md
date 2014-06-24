@@ -29,7 +29,7 @@ For each lesson the instructor will post slides, exercises and, solution files. 
 
 From the terminal type: (first make sure you are in the correct directory, by using `cd ~/dev/BEWD_NYC_11/`)
 ```bash
-git pull --rebase upstream master
+git pull upstream master
 ```
 	
 ### How Do I Post Files To My Forked Repository on GitHub?
@@ -37,6 +37,8 @@ Yes, you may have your files locally on your computer but consider pushing them 
 
 *	Easily share your homework with the instructional team for grading.
 *	Share your files with your teammates.
+* Copy the starter code to your own personally named directory
+
 
 To __push__ files to GitHub:
 
