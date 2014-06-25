@@ -22,17 +22,21 @@
 ###########
 ###########
 
-
-
 #Version 3 - Add data type casting (fix casting issue).
 ###########
 ###########
 
 
-
 #Version 4 - Use string interpolation and escape characters, polish the output.
 ###########
 ###########
+puts 'Welcome to Teddit! a text based news aggregator. Get today\'s news tomorrow!'
+story = "Man raised by wolverines, then eaten " 
+
+upvotes = 4
+story_temply = "Story: #{story} Current upvotes: #{upvotes}"
+puts story_temply
+
 
 
 #Version 5 - Adding methods
